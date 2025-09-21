@@ -1,0 +1,2 @@
+1) Why do we use the setup we use for half deflection method?
+2) Sodium lamp wavelength 589.0 and 589.6 why? hint: stark effect, AMP related, we get two distinct diffraction grating from o2 for this, fine structure, hyperfine structure. immediate answer needed.
