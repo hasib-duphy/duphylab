@@ -15,3 +15,8 @@ distance = width * secant of angle with vertical ; instead of the width itself.
 13) The closer the biprism is to the single slit, the smaller double slit distance is, fringe gap increases, measurement becomes easy, thus they should be put together as close as possible.
 14) Every stand here moves by the slightest of touch and it causes problems for taking measurements. It moves voluntarily by few fringes like this.
 there are necessary screws that are missing which is the main cause for this mechanica lissue.
+15) Spirit lamp is used to align to compensate for the non vertical eyepiece (crosswire is not vertical)
+vertical is needed or the measurements will be off by sec/cos factor.
+16) Single slit and biprisms are aligned based on this alignment.
+17) Eyepiece can rotate which can cause error to happen in measurement (tangential displacement)
+18) One should not touch any part that aligns, it can misalign easily, very sensitive and prone to errors.
