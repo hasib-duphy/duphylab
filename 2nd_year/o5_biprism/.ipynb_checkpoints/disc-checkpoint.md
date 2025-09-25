@@ -20,3 +20,5 @@ vertical is needed or the measurements will be off by sec/cos factor.
 16) Single slit and biprisms are aligned based on this alignment.
 17) Eyepiece can rotate which can cause error to happen in measurement (tangential displacement)
 18) One should not touch any part that aligns, it can misalign easily, very sensitive and prone to errors.
+19) Set the eyepiece to the center and move it backwards while translating the fresnel prism to ensure beamline alignment.
+20) Make sure the light source is aligned with the slit 
